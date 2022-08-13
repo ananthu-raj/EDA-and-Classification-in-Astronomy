@@ -29,10 +29,15 @@ The dataset offers plenty of information about space to explore. Also, the class
 
 The classification models under consideration are :
 > k-Nearest Neighbours.
+ 
 > Decision Trees.
+
 > Naive Bayes.
+ 
 > Random Forest.
+ 
 > Gradient Boosting.
+ 
 > SVM
 
 ![Screenshot 2022-08-13 at 11 30 24 AM](https://user-images.githubusercontent.com/60540680/184470923-62ee814a-d700-4e19-bd17-22918c7294a1.png)

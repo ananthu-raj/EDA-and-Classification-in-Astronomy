@@ -16,14 +16,11 @@ We will apply the trained models which have the highest accuracy when trained on
 
 Various machine learning algorithms will be used to predict three classes - Stars , Galaxies , Quasars. We will primarily consider KNN , SVM , random forest algorithms for classification and other models will be used if the EDA gives such inferences. Scaling of data will be done to get better results. The results will help astronomers and astrophysicists carry out further studies.
 
-
-
 The results of the SDSS are electronically available to the scientific community and the general public, both as images and as precise catalogues of all objects discovered. By the end of the survey, the total quantity of information produced is about 15 terabytes. 
 The data consists of 5,00,000 observations of space taken by the SDSS. Every observation is described by 17 feature columns and 1 class column which identifies it to be either a star, galaxy or quasar.
 
 The dataset offers plenty of information about space to explore. Also, the class column is the perfect target for classification practices. 
      
-
 ![image](https://user-images.githubusercontent.com/60540680/184470954-993d563f-5117-4959-8584-107ae53f635e.png)
 
 The classification models under consideration are :

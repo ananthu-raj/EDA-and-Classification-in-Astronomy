@@ -10,3 +10,5 @@ We will apply the trained models which have the highest accuracy when trained on
 
 ![image](https://user-images.githubusercontent.com/60540680/184470500-1d5ac375-a617-44da-9d88-70d6b77fccad.png)
 
+Various machine learning algorithms will be used to predict three classes - Stars , Galaxies , Quasars. We will primarily consider KNN , SVM , random forest algorithms for classification and other models will be used if the EDA gives such inferences. Scaling of data will be done to get better results. The results will help astronomers and astrophysicists carry out further studies.
+
